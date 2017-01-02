@@ -5,3 +5,5 @@ A virtual floor planner for [Jameson Camp](http://jamesoncamp.org). Collision de
 ## Usage
 
 Simply add a table and right click it to add chairs, or just add a bunch of stuff to get started.
+
+*A JavaScript Project by Steven O'Riley*
