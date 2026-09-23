@@ -1,7 +1,6 @@
 /*
 	Floor planner for Jameson Camp
 	Reformed from the WebGL version for simplicity for the user
-	Made by Steven O'Riley
 */
 
 // Customized Stuff (Dynamic)
