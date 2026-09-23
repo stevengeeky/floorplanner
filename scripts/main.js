@@ -923,6 +923,7 @@ function doTables()
 		}
 		if (err)
 			areErrors = true;
+		t.hasError = err;		// read by the 3D view (scripts/view3d.js)
 		
 		if (t.type == "round")
 		{
